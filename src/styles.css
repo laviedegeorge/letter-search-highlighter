@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+
+#text_holder span{
+  background-color:#FF9;
+  color:#555;
+}
