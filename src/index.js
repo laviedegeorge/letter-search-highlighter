@@ -16,5 +16,3 @@ function highlightSearch() {
 document.getElementById("search_input").addEventListener("keyup", () => {
   highlightSearch();
 });
-/* const btn = document.getElementById("btn");
-btn.addEventListener("click", ()=>{highlightSearch()}); */

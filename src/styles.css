@@ -1,8 +1,19 @@
+* {
+box-sizing: border-box;
+}
+
 body {
   font-family: sans-serif;
+  margin: 0;
+  padding:0;
 }
 
 #text_holder span{
-  background-color:#FF9;
+  background-color:rgb(253, 253, 42);
   color:#555;
+}
+
+input:focus {
+  border: solid 2px #555;
+  transition: all .3s ease-in-out;
 }

@@ -1,5 +1,5 @@
 {
-  "name": "search-highlighter-with-vanilla-js",
+  "name": "letter-search-highlighter-with-vanilla-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -7,10 +7,17 @@
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
-  "dependencies": {},
+  "dependencies": {
+    "tailwind": "4.0.0"
+  },
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": []
+  "keywords": [
+    "javascript", 
+    "javascript word highlighter", 
+    "web front-end",
+    "web development"
+  ]
 }
